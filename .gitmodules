@@ -1,0 +1,6 @@
+[submodule "WinProject"]
+	path = WinProject
+	url = https://github.com/Xeosha/WinProject.git
+[submodule "Client-app-for-control-temperature"]
+	path = Client-app-for-control-temperature
+	url = https://github.com/Samurai-lab/Client-app-for-control-temperature.git
