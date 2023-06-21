@@ -1,7 +1,7 @@
 # Controller-boiler-grow-temperature
 
 # A short video about the project and the general functionality of the system
-Ref: https://www.youtube.com/watch?v=BAkByDuawGY
+Ref: https://youtu.be/lFt_C0k7o-I
 
 # Project Terms of Reference
 Ref: https://github.com/Samurai-lab/Controller-boiler-grow-temperature/blob/main/TZ.docx
